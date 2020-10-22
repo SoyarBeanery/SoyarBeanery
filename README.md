@@ -3,7 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-rainchai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rain-chai-48370318a/)](https://www.linkedin.com/in/rain-chai-48370318a/) 
-[![Gmail Badge](https://img.shields.io/badge/-rainchai4240@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rainchai4240@gmail.com)](mailto:rainchai4240@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-yeoyeewen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeoyeewen@gmail.com)](mailto:yeoyeewen@gmail.com)
 
 Hey! I am Rain, a web developer based in Malaysia, working under [Map72](https://github.com/map711) as a software developer🙌. I enjoy coffee, startup, coding and community, do feel free to reach out to me for any enquiry ☕!
 ## 👯 Communities
