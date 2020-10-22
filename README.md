@@ -9,9 +9,10 @@ Hey! I am Yeo, a freelance developer based in Malaysia. I m driven and inspired 
 ## 👯 Communities
 * General Committee @ [Sunway Tech Club](https://github.com/sunwaytechclub)
 ## ⚡ Technologies
-Talk to me about
-- Front-end development using **HTML, CSS, JS(Reactjs, "Vuejs(Learning)")**
-- Backend development using **Expressjs, Django**
+- Programming/Markup Languages & Framework Using **C/C++, Python(Django, Flask), HTML, CSS, SAS, SQL, Javascript(Node.js, React.js, Vue.js, React Native, Express.js)**
+- Data Science Tools using **PowerBI, Tableau, Google Data Studio, SAS EG/Miner, RStudio, QlikView, QlikSense, Highcharts, Plotly, d3.js, Tensorflow, Holistics**
+- Internet Software As A Service & Database
+AdobeXD, Adobe Effects, Framer, Wordpress, Supernova.io, Anima, Firebase, MongoDB, MySQL
 - Mobile application development using **React Native**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
