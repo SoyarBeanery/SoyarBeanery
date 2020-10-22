@@ -22,7 +22,7 @@ Talk to me about
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://pupubird.com)
 
-![Pupubird's github stats](https://github-readme-stats.vercel.app/api?username=pupubird&hide=["issues"]&show_icons=true)
+![Yeo's github stats](https://github-readme-stats.vercel.app/api?username=SoyarBeanery&hide=["issues"]&show_icons=true)
 
 ### 💳 Credit
 ⭐️ Template From [harshkumarkhatri](https://github.com/harshkumarkhatri) (Thanks!)
