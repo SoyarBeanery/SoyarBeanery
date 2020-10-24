@@ -19,11 +19,8 @@ Hey! I am Yeo, a freelance developer based in Malaysia. I m driven and inspired 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/likweitan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="likweitan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/likweitan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="likweitan" height="30" width="40" /></a>
-<a href="https://kaggle.com/likweitan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="likweitan" height="30" width="40" /></a>
-<a href="https://instagram.com/likweitan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="likweitan" height="30" width="40" /></a>
-<a href="/https://likweitan.github.io/rss2.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://likweitan.github.io/rss2.xml" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yeo-yee-wen-soyabean-39a074189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="likweitan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gpy_soya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="likweitan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
