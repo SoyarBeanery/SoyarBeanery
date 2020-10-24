@@ -44,7 +44,7 @@ Hey! I am Yeo, a freelance developer based in Malaysia. I m driven and inspired 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-/n
+
 ### 💳 Credit
 ⭐️ Template From [harshkumarkhatri](https://github.com/harshkumarkhatri) (Thanks!)
 
