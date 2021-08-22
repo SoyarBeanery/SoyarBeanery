@@ -8,7 +8,7 @@
 Hey! I am Yeo, driven and inspired to constantly develop my skills while being challenged in order to grow and further improve myself & grow professionally towards becoming an overall tech savy person. 
 
 - 🔭 I was working on **Sarcasm Detection From Cyberbullying & Aggressive Cases Online Through Social Media Analytics**
-- My Portfolio: https://soyarbeanery.github.io/portfolio/
+- Lancaster Award: https://www.lancaster.ac.uk/2021ugconference/yee-wen-yeo/
 
 ## 👯 Communities
 * General Committee @ [Sunway Tech Club](https://github.com/sunwaytechclub)
