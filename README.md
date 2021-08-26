@@ -12,10 +12,25 @@ Hey! I am Yeo, driven and inspired to constantly develop my skills while being c
 ## 👯 Communities
 * General Committee @ [Sunway Tech Club](https://github.com/sunwaytechclub)
 
-## Hello World!! 🤔
-- 💬 Ask me about anything and everything.
+<h1 align="center">Hello World 👋</h1>
 
-![Yeo's github stats](https://github-readme-stats.vercel.app/api?username=SoyarBeanery&hide=["issues"]&show_icons=true)
+<p align='center'>
+  
+  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;-->
+  <a href="https://www.linkedin.com/in/likweitan/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/likweitan">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=likweitan&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
