@@ -19,23 +19,23 @@ Hey! I am Yeo, driven and inspired to constantly develop my skills while being c
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;-->
-  <a href="https://www.linkedin.com/in/likweitan/">
+  <a href="https://www.linkedin.com/in/Soyarbeanery/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/likweitan">
+  <a href="https://instagram.com/SoyarBeanery">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=likweitan&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SoyarBeanery&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yeo-yee-wen-soyabean-39a074189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="likweitan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gpy_soya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="likweitan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yeo-yee-wen-soyabean-39a074189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Soyarbeanery" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gpy_soya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Soyarbeanery" height="30" width="40" /></a>
 </p>
 
 
