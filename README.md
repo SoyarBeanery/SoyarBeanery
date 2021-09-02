@@ -7,9 +7,9 @@
 
 Hey! I am Yeo, driven and inspired to constantly develop my skills while being challenged in order to grow and further improve myself & grow professionally towards becoming an overall tech savy person. 
 
-## Some Hobby Projects --> https://soyarbeanery.github.io/portfolio
+### Some Hobby Projects --> https://soyarbeanery.github.io/portfolio
 
-## 👯 Communities
+### 👯 Communities
 * General Committee @ [Sunway Tech Club](https://github.com/sunwaytechclub)
 
 <h1 align="center">Hello World 👋</h1>
