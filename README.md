@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-yeoyeewen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louisyeo-135/)](https://www.linkedin.com/in/louisyeo-135/) 
 [![Gmail Badge](https://img.shields.io/badge/-yeoyeewen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeoyeewen@gmail.com)](mailto:yeoyeewen@gmail.com)
 
-Hey! I am Yeo, driven and inspired to constantly develop my skills while being challenged in order to grow and further improve myself & grow professionally towards becoming an overall tech savy person. 
+Hey! I am Yeo. 
 
 ### Some Hobby Projects --> https://soyarbeanery.github.io/portfolio
 
