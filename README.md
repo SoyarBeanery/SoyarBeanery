@@ -9,8 +9,6 @@ Hey! I am Yeo.
 
 ### Some Hobby Projects --> https://soyarbeanery.github.io/portfolio
 
-### Other Projects --> https://docs.google.com/document/d/1D8wql4WdoMeJFDLGS-scZHYDPxkyFVrl439-mZsRk1g/edit?usp=sharing
-
 ### 👯 Communities
 * General Committee @ [Sunway Tech Club](https://github.com/sunwaytechclub)
 
