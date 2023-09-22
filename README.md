@@ -12,6 +12,8 @@ Hey! I am Yeo.
 ### 👯 Communities
 * General Committee @ [Sunway Tech Club](https://github.com/sunwaytechclub)
 
+* Extracurricular Projects @ (https://docs.google.com/document/d/1D8wql4WdoMeJFDLGS-scZHYDPxkyFVrl439-mZsRk1g/edit?usp=sharing)
+
 <h1 align="center">Hello World 👋</h1>
 
 <p align='center'>
